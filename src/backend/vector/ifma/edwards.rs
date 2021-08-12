@@ -11,7 +11,7 @@
 
 use traits::Identity;
 
-use std::ops::{Add, Neg, Sub};
+use core::ops::{Add, Neg, Sub};
 
 use subtle::Choice;
 use subtle::ConditionallySelectable;
